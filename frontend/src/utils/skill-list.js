@@ -11,7 +11,8 @@ const skillList = [
 			'https://camo.githubusercontent.com/22045498095171997ccf6a9554672519b9f67898/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656163742e737667'
 	},
 	{
-		name: "JavaScript", value: 'https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png'
+		name: "JavaScript",
+		 value:'https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png'
 	},
 	{
 		name: 'HTML/CSS',
