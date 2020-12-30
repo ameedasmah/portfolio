@@ -4,45 +4,46 @@ const skillList = [
 	// 	value:
 	// 		'https://media.discordapp.net/attachments/762721371809382421/793153790260805712/html5-css3.png'
 	// },
-	
-	{
-		name: 'React',
-		value:
-			'https://camo.githubusercontent.com/22045498095171997ccf6a9554672519b9f67898/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656163742e737667'
-	},
-	{
-		name: "JavaScript",
-		 value:'https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png'
-	},
-	{
-		name: 'HTML/CSS',
-		value:
-			'https://media.discordapp.net/attachments/762721371809382421/793153790260805712/html5-css3.png'
-	},
-	{
-		name: "TypeScript", value: 'https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png'
-	},
-	{
-		name: "C++", value: 'https://img.icons8.com/color/452/c-plus-plus-logo.png'
-	},
-	{
-		name: "Python", value: 'https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png'
-	},
-	{
-		name: "MongoDB", value: 'https://img.icons8.com/color/452/mongodb.png'
-	},
-	{
-		name: "MySQL/PostgreSQL", value: 'https://icons-for-free.com/iconfiles/png/512/file+sql+icon-1320183612970878250.png'
-	},
-	{
-		name: "Django", value: 'https://icon-library.com/images/django-icon/django-icon-0.jpg'
-	},
-	{
-		name: "Firebase", value: 'https://img.icons8.com/color/452/firebase.png'
-	},
-	{
-		name: "Material-Ui", value: 'https://miro.medium.com/max/560/1*jZtQFMYGgMvRkIje-Rm1gQ.png'
-	},
+
+	// {
+	// 	name: 'React',
+	// 	value:
+	// 		'https://camo.githubusercontent.com/22045498095171997ccf6a9554672519b9f67898/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f72656163742e737667'
+	// },
+	// {
+	// 	name: "JavaScript",
+	// 	 value:
+	// 	 'https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png'
+	// },
+	// {
+	// 	name: 'HTML/CSS',
+	// 	value:
+	// 		'https://media.discordapp.net/attachments/762721371809382421/793153790260805712/html5-css3.png'
+	// },
+	// {
+	// 	name: "TypeScript", value: 'https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png'
+	// },
+	// {
+	// 	name: "C++", value: 'https://img.icons8.com/color/452/c-plus-plus-logo.png'
+	// },
+	// {
+	// 	name: "Python", value: 'https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png'
+	// },
+	// {
+	// 	name: "MongoDB", value: 'https://img.icons8.com/color/452/mongodb.png'
+	// },
+	// {
+	// 	name: "MySQL", value: 'https://icons-for-free.com/iconfiles/png/512/file+sql+icon-1320183612970878250.png'
+	// },
+	// {
+	// 	name: "Django", value: 'https://icon-library.com/images/django-icon/django-icon-0.jpg'
+	// },
+	// {
+	// 	name: "Firebase", value: 'https://img.icons8.com/color/452/firebase.png'
+	// },
+	// {
+	// 	name: "Material-Ui", value: 'https://miro.medium.com/max/560/1*jZtQFMYGgMvRkIje-Rm1gQ.png'
+	// },
 	// {
 	// 	name: 'React',
 	// 	svgPath:
